@@ -29,7 +29,8 @@ namespace PheggMod.API
         NICKEL,
         MINT,
         ARMY_GREEN,
-        PUMPKIN
+        PUMPKIN,
+        DEFAULT
     }
 
     public enum CleanTeam
