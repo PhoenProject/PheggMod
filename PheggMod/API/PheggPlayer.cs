@@ -266,7 +266,11 @@ namespace PheggMod
         public void SetTag(string Text, TagColour colour, ulong permissions = 0)
         {
             _serverRoles.SetText(Text);
-            _serverRoles.SetColor(Base.colours[(int)colour]);
+
+            if(colour != TagColour.DEFAULT) {
+                _serverRoles.SetColor(Base.colours[(int)colour]);
+            }
+            
             _serverRoles.Permissions = permissions;
         }
     }
