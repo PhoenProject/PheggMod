@@ -1,5 +1,12 @@
 # PheggMod
  
+# We have moved!
+We have moved to a new repo over on GitLab. 
+You can find us here: https://gitlab.com/Phoenix--Project/PheggMod
+
+
+
+
 PheggMod API for SCP: Secret Laboratory
 
 # Plugin Directory
