@@ -4,11 +4,6 @@
 We have moved to a new repo over on GitLab. 
 You can find us here: https://gitlab.com/Phoenix--Project/PheggMod
 
-
-
-
-PheggMod API for SCP: Secret Laboratory
-
 # Plugin Directory
 There are 2 locations where plugins can be loaded from:
  - config/ServerPort/plugins - This allows you to launch multiple servers using different plugins, without having all servers run them.
