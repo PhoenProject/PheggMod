@@ -1,7 +1,7 @@
 # PheggMod
  
 # We have moved!
-We have moved to a new repo over on GitLab. 
+We have moved over to a new repo. 
 You can find us here: https://github.com/DragonSCP-Developers/PheggMod
 
 # Plugin Directory
